@@ -1,0 +1,63 @@
+Privacy Policy Summary
+
+DuckDuckGo is a private search engine and browser that doesn't track you. They don't save or share your search history, browsing history, or location. Their goal is to provide a safe and private online experience.
+
+
+Key Points
+
+
+    DuckDuckGo doesn't track your online activities.
+
+    They don't save or share your search or browsing history.
+
+    They protect your data and limit its use when you communicate directly with them.
+
+
+
+What They Collect
+
+
+    Your device's IP address (but they don't save it)
+
+    Browser type and language
+
+    Screen size, operating system, and preferences (if you choose to share them)
+
+    Anonymous search queries (to analyze trends, but not linked to you)
+
+    Minimal information for optional features (like Email Protection)
+
+
+
+How They Use Your Data
+
+
+    To deliver content to you
+
+    For security, to prevent malicious bots
+
+    To analyze anonymous trends (like popular searches)
+
+    To provide optional features (like Email Protection)
+
+
+
+Your Rights
+
+
+    You have the right to delete or request a copy of your personal information (if you provided it)
+
+    You can unsubscribe from their newsletter at any time
+
+    DuckDuckGo will resist government efforts to compel them to produce personal information
+
+
+
+Action Items
+
+
+    Be aware that DuckDuckGo doesn't track you, but your internet service provider might see your IP address.
+
+    If you use optional features, only minimal necessary information is stored.
+
+    You can review their Privacy Rights page for more information about your rights.

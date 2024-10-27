@@ -1,0 +1,65 @@
+Privacy Policy Summary
+
+DuckDuckGo's privacy policy is centered around not tracking users. They don't save or share search or browsing history, and they don't collect personal information unless users voluntarily provide it. Their goal is to provide a private alternative to other online services.
+
+
+Key Points
+
+
+    DuckDuckGo does not track users or save their search and browsing history.
+
+    They don't collect personal information unless users voluntarily provide it.
+
+    They use anonymous data to analyze trends and improve their services.
+
+    They protect users' data when communicating directly with DuckDuckGo.
+
+    They respect and support users' legal privacy rights.
+
+
+
+What They Collect
+
+
+    IP address, browser type, and language: This information is automatically sent by devices when visiting DuckDuckGo's websites, but it's not saved or shared.
+
+    Anonymous search queries: DuckDuckGo saves these queries for a short time to analyze trends, but they're completely disconnected from any unique identifiers like IP addresses.
+
+    Device information: DuckDuckGo may collect device information, such as screen size and operating system, but it's only used temporarily to deliver content.
+
+    Personal information: Users may voluntarily provide personal information, such as email addresses, when using optional features or communicating with DuckDuckGo.
+
+
+
+How They Use Your Data
+
+
+    Delivering content: DuckDuckGo uses device information to deliver content to users.
+
+    Analyzing trends: They use anonymous search queries to analyze trends and improve their services.
+
+    Security: They use device information to ensure security and prevent malicious activity.
+
+    Optional features: They use personal information to provide optional features, such as staying signed in to Email Protection.
+
+
+
+Your Rights
+
+
+    Right to anonymity: DuckDuckGo respects users' right to anonymity and doesn't track or save their search and browsing history.
+
+    Right to control personal information: Users have control over their personal information and can choose to provide it voluntarily.
+
+    Right to deletion: Users can request deletion of their personal information, and DuckDuckGo will comply unless required by law to keep it.
+
+
+
+Action Items
+
+
+    Understand what information you're sharing: Be aware of what information you're sharing with DuckDuckGo, and make informed decisions about what you share.
+
+    Use optional features wisely: If you use optional features, understand what personal information you're providing and how it's being used.
+
+    Review your rights: Familiarize yourself with your rights and how DuckDuckGo respects them.

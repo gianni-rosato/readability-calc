@@ -1,0 +1,65 @@
+Privacy Policy Summary
+
+DuckDuckGo's main goal is to protect your online activities without tracking or sharing your personal data. They don't save your search or browsing history, IP address, or unique identifiers. This allows you to use their services anonymously.
+
+
+Key Points
+
+
+    DuckDuckGo doesn't track or save your search and browsing history.
+
+    They don't share your personal data with anyone.
+
+    Your searches and browsing activities are completely anonymous.
+
+    They don't know who performed a search, just that the search was made.
+
+    DuckDuckGo only keeps anonymous search queries for a short time to analyze trends.
+
+
+
+What They Collect
+
+
+    Temporary information: Your device sends information about itself, like IP address and browser type, but DuckDuckGo only uses it to deliver content to you.
+
+    Search queries: DuckDuckGo keeps a record of anonymous search queries for a short time to analyze trends.
+
+    Device information: If you use optional features like Email Protection, DuckDuckGo uses minimal storage to allow the feature to work.
+
+
+
+How They Use Your Data
+
+
+    To deliver content: DuckDuckGo uses the temporary information your device sends to deliver content to you.
+
+    For security: They use this information to make sure you're not a malicious bot.
+
+    For trends analysis: DuckDuckGo uses anonymous search queries to analyze trends and better serve you.
+
+    For optional features: If you use features like Email Protection, DuckDuckGo uses the minimal necessary storage to allow the feature to work.
+
+
+
+Your Rights
+
+
+    You have the right to remain anonymous: DuckDuckGo doesn't track or save your personal data, so you can use their services without being identified.
+
+    You have the right to request deletion: If you provide personal information, you can request deletion or a copy of your information.
+
+    You have the right to opt-out: You can unsubscribe from DuckDuckGo's newsletter or other services at any time.
+
+
+
+Action Items
+
+
+    Use DuckDuckGo's services with confidence: Since DuckDuckGo doesn't track or save your personal data, you can use their services without worrying about your online activities being monitored.
+
+    Review DuckDuckGo's Privacy Rights page: If you provide personal information, review DuckDuckGo's Privacy Rights page to learn more about your rights and how to request deletion or a copy of your information.
+
+    Keep your information up to date: If you provide personal information, make sure to keep it up to date and accurate.
+
+    Contact DuckDuckGo with questions: If you have any questions or concerns about DuckDuckGo's privacy policy, you can contact them directly.

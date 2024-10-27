@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "readability-calc"
+version = "0.1.0"
+description = "Calculate various readability scores for a piece of text using py-readability-metrics"
+authors = ["Gianni Rosato <giannirosato@proton.me>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+py-readability-metrics = "^1.4.5"
+matplotlib = "^3.9.2"
+tqdm = "^4.66.5"
+nltk = "^3.9.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
